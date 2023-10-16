@@ -2,7 +2,7 @@
 
  A savoir :
 - Le projet est basé sur TypeScript et a été conçu pour fonctionner sur un système Windows. 
-- Le script réalisé se situe dans TP1.1>src>index.ts.
+- Le script réalisé se situe dans src>index.ts.
 - L'unique variable d'environnement doit s'appeler PING_LISTEN_PORT elle permet de spécifier le port du serveur HTTP.
 - Redémarrer VS Studio Code à chaque fois que la variable d'environnement du port est modifiée dans Windows.
 - Node.js doit être installé sur le poste.
