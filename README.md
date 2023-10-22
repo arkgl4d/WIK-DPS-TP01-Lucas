@@ -12,6 +12,6 @@ Fonctionnement du projet :
 
 - Démarrer le serveur HTTP :
       Dans un terminal Vs Studio Code, en ayant le projet ouvert, entrer la commande "node build/index.js" le serveur démarre avec le port précisé dans la variable         PING_LISTEN_PORT.
-    
+      Sinon, le port par défaut sera le 3000.
 - Utiliser l'API : 
       Dans un autre terminal, utiliser la commande curl http://127.0.0.1:'numéro_de_port_choisi'/ping -v avec cette commande la requête est bien GET /ping alors le         résultat de commande sera Ok.
